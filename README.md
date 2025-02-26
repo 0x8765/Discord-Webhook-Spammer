@@ -4,7 +4,9 @@ Programme pour spammer des messages **prédéfinis** (ou aléatoires) sur un ser
 
 ## Installation
 
-Pour lancer ce programme sur votre ordinateur, vous devez avoir la version 19.0.2 de Java **installée** sur votre ordinateur. Téléchargez le programme [ici](https://github.com/0x8765/Discord-Webhook-Spammer/releases/tag/v1.0).
+Pour lancer ce programme sur votre ordinateur, vous devez avoir la version 19.0.2 de Java **installée** sur votre ordinateur. 
+Télécharger Java 19.0.2 [ici](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html).
+Téléchargez mon programme [ici](https://github.com/0x8765/Discord-Webhook-Spammer/releases/tag/v1.0).
 
 ## Utilisation
 
